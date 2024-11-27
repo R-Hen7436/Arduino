@@ -2,7 +2,7 @@
 #include <FirebaseESP8266.h>
 
 // Your Wi-Fi credentials
-#define WIFI_SSID "CabigonU"
+#define WIFI_SSID "UbasC"
 // #define WIFI_PASSWORD "C@bigonUb#s**2023**" // Use for Wi-Fi password if required
 
 // Your Firebase project credentials

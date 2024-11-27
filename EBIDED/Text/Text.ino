@@ -53,7 +53,7 @@ void setup() {
   Serial.println("Connected to Firebase");
 
   // Send the string "TayinGwapo" to Firebase
-  if (Firebase.setString(firebaseData, "/test/message", "AkoTayin")) {
+  if (Firebase.setString(firebaseData, "/test/message", "TayinGwapo")) {
     Serial.println("Text sent successfully");
   } else {
     Serial.println("Failed to send text");
